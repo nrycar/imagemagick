@@ -10,6 +10,6 @@ recipe "imagemagick", "Installs imagemagick package"
 recipe "imagemagick::devel", "Installs imagemagick development libraries"
 recipe "imagemagick::rmagick", "Installs rmagick gem"
 
-%w{fedora centos rhel ubuntu debian}.each do |os|
+%w{fedora centos rhel ubuntu debian scientific}.each do |os|
   supports os
 end

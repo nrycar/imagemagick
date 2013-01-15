@@ -12,6 +12,7 @@ Tested on:
 
 * Ubuntu (10.04)
 * RHEL (6.1, 5.7)
+* Scientific (6.3)
 
 Usage
 =====
